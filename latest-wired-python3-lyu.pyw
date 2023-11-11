@@ -13,15 +13,15 @@ import binascii
 
 # CONFIG
 server = '192.168.2.5'
-username = '2018123456'#临沂大学登陆账号（学生是学号）
+username = '2018123456'
 password = '123456'#密码（学生是身份证后六位默认）
 CONTROLCHECKSTATUS = b'\x20'
 ADAPTERNUM = b'\x08'
 host_ip = '172.21.55.108'
 IPDOG = b'\x01'
 host_name = 'fuyumi'
-PRIMARY_DNS = '211.64.240.11'
-dhcp_server = '172.21.48.1'
+PRIMARY_DNS = '218.30.19.500'
+dhcp_server = '10.128.195.107'
 AUTH_VERSION = b'\x0f\x00'
 mac = 0x7c67a2deb345
 host_os = 'Windows 10'
